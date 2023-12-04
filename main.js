@@ -7,7 +7,7 @@ let PersonalMovieDB = {
     movies: {},
     actors: {},
     genres: [],
-    privat: false,
+    privat: false
 };
 
 
